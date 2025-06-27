@@ -7,5 +7,6 @@ class LinkedList:
     def display1(self,a,b):
         print(a+b)
         return
+    def jkajdskdjsk
 
     
