@@ -8,9 +8,5 @@ class LinkedList:
         print(a+b)
         print()
         return
-    def create(self,number):
-        node1=Node(number)
-        node.next=node1
-        node=node1
-        return 
+
     
