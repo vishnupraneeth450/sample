@@ -4,13 +4,9 @@ class Node:
         self.next=None
 node=Node(0)
 class LinkedList:
-    def display(self,a,b):
+    def display1(self,a,b):
         print(a+b)
-        print('hello')
         return
-    def create(self,number):
-        node1=Node(number)
-        node.next=node1
-        node=node1
-        return 
+    def jkajdskdjsk
+
     
