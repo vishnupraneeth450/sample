@@ -6,6 +6,7 @@ node=Node(0)
 class LinkedList:
     def display(self,a,b):
         print(a+b)
+        print()
         return
     def create(self,number):
         node1=Node(number)
